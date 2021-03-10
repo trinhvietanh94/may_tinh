@@ -1,0 +1,10 @@
+input[type="button"] {
+  color: rgb(5, 5, 5);
+  border: solid rgb(248, 244, 244) 2px;
+  width: 100%;
+}
+input[type="text"] {
+  background-color: rgb(250, 249, 248);
+  border: solid black 2px;
+  width: 100%;
+}input[]
